@@ -1,0 +1,26 @@
+{
+  "name": "express-backend-for-internal-soap-calls",
+  "version": "1.0.0",
+  "description": "express-backend-for-internal-soap-calls",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everybodyloveshaggis/express-backend-for-internal-soap-calls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/everybodyloveshaggis/express-backend-for-internal-soap-calls/issues"
+  },
+  "homepage": "https://github.com/everybodyloveshaggis/express-backend-for-internal-soap-calls#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "soap": "^1.1.6"
+  }
+}
